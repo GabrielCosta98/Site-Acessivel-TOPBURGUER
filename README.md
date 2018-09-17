@@ -22,7 +22,7 @@ FOR do label e ID do input, os quaisrecebem o mesmo valor.
 
 # Autores
 
-O design do site foi desenvolvido por mim e por meu colega de classe Gabriel Costa. A programação do mesmo contou com a participação 
+O design do site foi desenvolvido por mim e por minha colega de classe Jhennifer Daniely. A programação do mesmo contou com a participação 
 dos meus colegas de classe Thamires Viel e Marílson Santos.
 
-# TOPBURGUER https://jhenifferdaniely.github.io/webaccessibility/
+# TOPBURGUER https://gabrielcosta98.github.io/Site-Acessivel-TOPBURGUER/.
